@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+mlruns/
+.dvc/cache/
+.dvc/tmp/
+
+mlflow.db
+mlartifacts/
