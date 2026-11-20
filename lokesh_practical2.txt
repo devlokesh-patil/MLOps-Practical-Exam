@@ -1,0 +1,10 @@
+MLOps Practical 2
+Name: Lokesh Patil
+Topic: Git and GitHub Version Control
+
+This file is created to practise Git operations:
+1. Git status
+2. Git add
+3. Git commit
+4. Git push
+5. Pull Requests
